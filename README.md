@@ -1,14 +1,14 @@
-\# 📊 Proyecto: Análisis de Ventas y Segmentación de Clientes – Online Retail
+📊 Proyecto: Análisis de Ventas y Segmentación de Clientes – Online Retail
 
 
 
-\## 🧠 Objetivo
+ 🧠 Objetivo
 
 Analizar el comportamiento de compra de clientes y el rendimiento de ventas utilizando técnicas de análisis descriptivo y segmentación RFM con Python.
 
 
 
-\## 🛠️ Herramientas utilizadas
+🛠️ Herramientas utilizadas
 
 \- Python  
 
@@ -20,7 +20,7 @@ Analizar el comportamiento de compra de clientes y el rendimiento de ventas util
 
 
 
-\## 🔍 Metodología
+🔍 Metodología
 
 1\. \*\*Limpieza de datos\*\*
 
@@ -52,7 +52,7 @@ Analizar el comportamiento de compra de clientes y el rendimiento de ventas util
 
 
 
-\## 📈 Principales hallazgos
+ 📈 Principales hallazgos
 
 \- Ingresos totales: £8.9 millones  
 
@@ -64,13 +64,13 @@ Analizar el comportamiento de compra de clientes y el rendimiento de ventas util
 
 
 
-\## ✅ Conclusión
+✅ Conclusión
 
 El análisis permitió comprender patrones de compra y comportamiento del cliente, facilitando la identificación de segmentos estratégicos para diseñar campañas de fidelización y optimizar la toma de decisiones comerciales.
 
 
 
-\## 🚀 Cómo presentar este proyecto en LinkedIn
+🚀 Cómo presentar este proyecto en LinkedIn
 
 📊 Nuevo proyecto en mi portafolio: Análisis de Ventas con Python
 
